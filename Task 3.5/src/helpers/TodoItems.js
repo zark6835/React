@@ -1,0 +1,3 @@
+const listOfTasks = [];
+
+export { listOfTasks };

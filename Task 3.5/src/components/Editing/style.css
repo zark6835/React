@@ -1,0 +1,12 @@
+.list-btn__wrapper {
+
+}
+
+.list-item__basket{
+    cursor: pointer;
+    margin: 0 3px;
+}
+.list-item__edit{
+    cursor: pointer;
+    margin: 0 3px;
+}
