@@ -1,0 +1,26 @@
+.wrapper-navigation{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+    height: 60px;
+    background-color: black;
+}
+
+.wrapper-navigation h2{
+    cursor: pointer;
+    display: inline;
+    transition: 50ms;
+    color: white;
+    text-decoration: none;
+    border: none;
+    outline: none;
+}
+
+.NavLink{
+    text-decoration: none;
+}
+
+.wrapper-navigation h2:hover{
+    border-bottom: 2px solid white;
+}
