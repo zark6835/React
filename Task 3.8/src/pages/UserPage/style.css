@@ -1,0 +1,31 @@
+.container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding-right: 146px;
+  gap: 150px;
+}
+
+.user-container {
+  margin-top: 90px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: left;
+  flex-direction: column;
+}
+
+.user-list {
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+}
+.user-information {
+    color: black;
+}
+.user-information__link {
+  font-size: 20px;
+  text-decoration: none;
+  color: black;
+}
