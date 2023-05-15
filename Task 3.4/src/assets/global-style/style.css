@@ -1,0 +1,13 @@
+.font{
+    font-size: 30px;
+    text-align: center;
+    font-family: sans-serif;
+    background-color: black;
+    color: white;
+    padding: 20px;
+    margin-bottom: 15px;
+}
+
+.font:not(:first-child) {
+    margin-top: 15px;
+  }
