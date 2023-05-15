@@ -1,0 +1,39 @@
+.wrapper {
+  background-color: black;
+}
+
+.title {
+  text-align: center;
+  padding-top: 15px;
+  font-size: 25px;
+  color: white;
+}
+
+.form {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  gap: 5px;
+  margin-top: 30px;
+  padding-bottom: 15px;
+}
+
+.form-title{
+    border: none;
+    outline: none;
+    text-align: center;
+    width: 300px;
+    height: 25px;
+}
+
+.form-body{
+    border: none;
+    outline: none;
+    text-align: center;
+    width: 300px;
+    height: 25px;
+}
+
+.form-btn{
+    width: 180px;
+}
